@@ -1,27 +1,28 @@
-# 💫 About Me:
-👋 Hello! I'm Yashar Shaikh, a Unity Developer and Game Designer based in Mumbai, India.<br>🎓 Bachelor's degree in Computer Engineering.<br>🕹️ Specialize in creating immersive gaming experiences.<br>🧟 Currently working on an exciting zombie wave shooter game.<br>💼 Strong background in game development with a focus on Unity engine.<br>🌟 Passionate about exploring new technologies and pushing the boundaries of game design.<br>💻 Check out my repositories to see some of my latest projects and contributions!
+<h1 align="center">Hi 👋, I'm Yashar Shaikh</h1>
+<h3 align="center">Passionate Game Developer & Software Engineer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasharshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="yasharshaikh" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashar-shaikh/) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YasharShaikh&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YasharShaikh&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YasharShaikh&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m currently working on **Juggernaut Simulator from 86(Anime) using Unreal Engine**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YasharShaikh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- 🌱 I’m currently learning **Cloud Gaming, Machine Learning, OpenGL**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 👯 I’m looking to collaborate on **A relaxing endless runner Drone game for mobiles using Unity**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YasharShaikh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🤝 I’m looking for help with **Procedural Animation using Unreal Engine**
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 💬 Ask me about **Game development, Cross-platform programming**
 
----
-[![](https://visitcount.itsvg.in/api?id=YasharShaikh&icon=0&color=0)](https://visitcount.itsvg.in)
+- 📫 How to reach me **yashrsk6@gmail.com**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yashar-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashar-shaikh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasharshaikh&show_icons=true&locale=en&layout=compact" alt="yasharshaikh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasharshaikh&" alt="yasharshaikh" /></p>
