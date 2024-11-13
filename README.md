@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[Juggernaut Simulator from 86(Anime) using Unreal Engine](https://github.com/YasharShaikh/Juggernaut_Simulator_UnrealEngine_Cpp)**
 
-- 🌱 I’m currently learning **Cloud Gaming, Machine Learning, OpenGL**
+- 🌱 I’m currently learning **Shader Programming, Machine Learning, OpenGL**
 
 - 👯 I’m looking to collaborate on **A relaxing endless runner Drone game for mobiles using Unity**
 
