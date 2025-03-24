@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Procedural Animation using Unreal Engine**
 
-- 💬 Ask me about **Game development, Cross-platform programming**
+- 💬 Ask me about **Game development, Game or product designing and ideas**
 
 - 📫 How to reach me **yashrsk6@gmail.com**
 
