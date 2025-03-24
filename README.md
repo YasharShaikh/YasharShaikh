@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasharshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="yasharshaikh" /> </p>
 
-- 🔭 I’m currently updating on **[AI boss battle with player mechanics using Unreal Engine and C++]([https://github.com/YasharShaikh/AI-Boss-Battle-PlayerMechanics-UE5-Cpp])**
+- 🔭 I’m currently updating  **[AI boss battle with player mechanics using Unreal Engine and C++](https://github.com/YasharShaikh/AI-Boss-Battle-PlayerMechanics-UE5-Cpp)**
 
 - 🌱 I’m currently learning **Shader Programming, Machine Learning, OpenGL**
 
