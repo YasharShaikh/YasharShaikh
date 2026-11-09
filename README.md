@@ -1,110 +1,24 @@
-<h1 align="center">Yashar Shaikh</h1>
-<h3 align="center">Gameplay & Systems Engineer (Unity, C#, Real-Time Simulation)</h3>
+# Yashar Shaikh
 
-<p align="center">
-Focused on scalable gameplay systems, simulation architecture, and performance optimization.
-</p>
+**Gameplay & Systems Engineer · Unity, C#, Real-Time Simulation**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasharshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="yasharshaikh" />
-</p>
+My GitHub projects cover gameplay systems, physics, procedural generation, and developer tools. Start with the source and setup guides below.
 
----
+## Featured repositories
 
-## 🚀 About Me
+| Project | What to explore |
+| --- | --- |
+| [**ECS Bullet Hell**](https://github.com/YasharShaikh/ECS-Bullet-Hell-2D-Unity) | Unity DOTS systems for player movement, enemy spawning, and bullets. |
+| [**Minimum Input Combo Attack**](https://github.com/YasharShaikh/Minimum-Input-Combo-Attack-Unity) | Configurable sword attacks and energy abilities with an in-game action menu. |
+| [**Procedural Planets**](https://github.com/YasharShaikh/Procedural-Planets) | Mesh generation, noise-driven terrain, biome colors, and Inspector controls. |
+| [**Boids**](https://github.com/YasharShaikh/Boids-Unity) | Flocking behavior built from cohesion, separation, alignment, and boundary steering. |
+| [**Beyblade Multiplayer AR**](https://github.com/YasharShaikh/BeyBlade-Multiplayer-AR-Unity) | Photon multiplayer, PlayFab login, and an AR arena placement prototype. |
+| [**UE5 Boss Battle**](https://github.com/YasharShaikh/AI-Boss-Battle-PlayerMechanics-UE5-Cpp) | A state-driven boss encounter with dash, telekinesis, and tripwire systems in C++. |
+| [**Flappy Bird in C++ / SFML**](https://github.com/YasharShaikh/GameEngine-FlappyBird-SFML-Cpp) | A game framework with screen states, asset management, input, and collision. |
 
-- 2.5+ years building **production-grade gameplay systems & simulation tools**
-- Specialized in **real-time systems, performance optimization, and modular architecture**
-- Experience shipping **mobile games (100K+ downloads, 4.2⭐ rating)**
-- Strong focus on **clean code, scalability, and system design over surface-level features**
-- Currently exploring **AI-assisted workflows + low-level graphics (OpenGL, HLSL)**
+## More work
 
----
+- **Granular Physics Simulation Engine** uses position-based dynamics, spatial hashing, and GPU-instanced rendering.
+- **Procedural Road System** generates roads from splines and includes editor tools for authoring intersections and modular segments.
 
-## 🧠 Core Expertise
-
-**Gameplay Systems**
-- Physics Simulation (Rigid Body, Constraints, Vehicle Dynamics)
-- NavMesh AI, Input Systems
-- Data-driven gameplay architecture
-
-**Performance Engineering**
-- GPU Instancing (Single Draw Call Rendering)
-- Draw Call Optimization, Shader Profiling
-- Object Pooling, Spatial Hashing
-
-**Systems Design**
-- Modular architecture for scalability
-- Real-time simulation pipelines
-- Tooling for designer workflows
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- C#, C++, Python, HLSL
-
-**Engines**
-- Unity (Primary)
-- Unreal Engine
-
-**Tools**
-- Git, PlasticSCM, Unity Profiler
-- CI/CD (basic), Docker (basic)
-- REST APIs, JSON pipelines
-
----
-
-## 🔥 Highlight Projects
-
-### 🧪 Granular Physics Simulation Engine
-- Built **Position-Based Dynamics system** handling 1000+ particles at 60+ FPS
-- Reduced collision complexity from **O(n²) → near O(n)** using spatial hashing
-- Implemented **GPU instanced rendering (single draw call)** with HLSL shaders
-- Decoupled simulation scale from rendering cost
-
----
-
-### 🛣️ Procedural Road System Tool
-- Developed **spline-based road generation system** with intersections & modular segments
-- Replaced expensive scene scans with **O(1) spatial registry (60% performance gain)**
-- Built **custom editor tools** enabling real-time road authoring
-- Designed for **large-scale environment workflows**
-
----
-
-### 🎮 Shipped Mobile Game
-- Delivered Android game from prototype → production  
-- **100,000+ downloads in first month**
-- Maintained **4.2-star rating**
-- Reduced memory usage by **25% using object pooling**
-- Led coordination across a **team of 4 developers**
-
----
-
-## 📌 Current Focus
-
-- Advanced **graphics programming (OpenGL, shaders)**
-- **AI-driven gameplay systems**
-- Building **high-performance reusable gameplay frameworks**
-
----
-
-## 📫 Contact
-
-- Email: yasharshaikh2806@gmail.com
-- LinkedIn: https://linkedin.com/in/yashar-shaikh
-- GitHub: https://github.com/YasharShaikh
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasharshaikh&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasharshaikh" />
-</p>
+[Portfolio and case studies](https://yasharshaikh2806.wixsite.com/portfolio) · [LinkedIn](https://linkedin.com/in/yashar-shaikh)
