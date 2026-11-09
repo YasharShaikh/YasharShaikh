@@ -4,6 +4,13 @@
 
 My GitHub projects cover gameplay systems, physics, procedural generation, and developer tools. Start with the source and setup guides below.
 
+## Professional experience
+
+| Team | Work |
+| --- | --- |
+| **Kiddopia (Paper Boat Apps)** · Current | I develop gameplay and interactive learning experiences in Unity for a mobile game for young players. |
+| **Tecknotrove Systems** · Previous | I worked on real-time Unity training simulators, including drone and crane simulation. |
+
 ## Featured repositories
 
 | Project | What to explore |
